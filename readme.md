@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Python script fine-tunes the LLaMA 2 7B chat model using QLoRA (Quantized Low-Rank Adaptation) with the `trl` and `peft` libraries. The fine-tuning process leverages 4-bit quantization for efficient training and is optimized for running on limited GPU resources. The script also integrates LoRA for parameter-efficient tuning and saves the fine-tuned model to the Hugging Face Hub.
+This Python script fine-tunes the LLaMA 2 7B chat model using QLoRA (Quantized Low-Rank Adaptation) with the `trl` and `peft` libraries. The fine-tuning process leverages 4-bit quantization for efficient training and is optimized for running on limited GPU resources. The script also integrates LoRA for parameter-efficient tuning and saves the fine-tuned model to the Hugging Face Hub
 
 ## Functionality
 
